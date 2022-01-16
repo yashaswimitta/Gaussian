@@ -44,7 +44,7 @@ for i in range(n):
     print('X%d = %0.2f' %(i,X[i]), end = ' ')
  ~~~
 ## Output:
-!Gaussian.png()
+![GitHub Logo](Gaussian.png)
 
 
 ## Result:
